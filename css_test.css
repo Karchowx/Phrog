@@ -1,0 +1,20 @@
+/*
+Free to use CSS template by Katie (#106445).
+This code may be altered, edited, or re-uploaded. 
+This template may be used to create paid codes (pre-mades and commissions).
+Please do NOT remove this credit, unless your coding becomes unrecognizable from this one! 
+*/
+
+/* FONT (From Google Fonts) */
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Share+Tech+Mono&display=swap');
+
+/* BACKGROUND */
+
+body {
+	background: url('https://github.com/Karchowx/Phrog/blob/main/upscaled_2560x1440.jpeg?raw=true') center center fixed;
+	background-size: 100%;
+	font-family: 'share tech mono', monospace;
+	color: #2e2a2b
+}
